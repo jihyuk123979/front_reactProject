@@ -6,7 +6,7 @@ React를 기반으로 구현되었으며, 작품 목록과 감상평 작성 기�
 
 ---
 
-##주요 기능
+## 주요 기능
 - **작품 목록 조회**: 작가, 제작년도, 작품 설명등의 정보 제공
 - **작품 제작 년도 별 목록 조회**: 작품 제작년도에 따른 작품 리스트 제공
 - **감상평 작성**: 감성평 작성, 수정 및 삭제 기능
@@ -14,13 +14,12 @@ React를 기반으로 구현되었으며, 작품 목록과 감상평 작성 기�
 
 ---
 
-##플로우 차트
+## 플로우 차트
 
 ---
-##구현 화면
+## 구현 화면
 
 ---
 
-##문서 보기
-[PDF로 보기]<br>
-(https://github.com/jihyuk123979/front_reactProject/blob/main/ReactProject.pdf)
+## 📄 문서 보기
+[PDF로 보기](https://github.com/jihyuk123979/front_reactProject/blob/main/ReactProject.pdf)
