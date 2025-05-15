@@ -31,11 +31,19 @@ React를 기반으로 구현되었으며, 작품 목록과 감상평 작성 기�
 
 > 상단 메뉴를 통해 내 외부 정보를 알 수 있습니다.
 > 버튼을 통해 내부 지도를 열고 접을 수 있습니다.
-
-1[내부 정보](images/insideinfo.gif)
+### 지도 버튼 시연
+![내부 정보](images/insideinfo.gif)
 ---
 ## 감상평 작성
-![감상평 작성](images
+![감상평 작성](images/감상평 작성.png)
+
+> 감상평 작성, 수정 및 삭제가 가능합니다.
+
+### 작성 시연 영상
+![작성](images/감상평 작성.gif)
+![수정 및 삭제](images/수정 및 삭제.gif)
+
+
 
 ## 📄 문서 보기
 [PDF로 보기](https://github.com/jihyuk123979/front_reactProject/blob/main/ReactProject.pdf)
