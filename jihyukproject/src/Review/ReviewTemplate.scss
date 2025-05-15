@@ -1,0 +1,26 @@
+.ReviewTemplate {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center; // 가운데 정렬
+  margin-top: 2rem;
+
+  .pctreview {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+
+  .review1 {
+    width: 700px; // 여기서 전체 리뷰 창 사이즈 조절
+    background: #f9f9f9;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+
+    @media screen and (max-width: 768px) {
+      width: 90%;
+      padding: 1rem;
+    }
+  }
+}

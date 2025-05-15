@@ -1,0 +1,29 @@
+.MainTop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+
+  .Logo img {
+    height: 100px;
+    width: 100px;
+    object-fit: contain;
+    padding-left: 20px;
+  }
+
+  .Menutitle {
+    text-align: center;
+    flex: 1;
+
+    .title {
+      font-size: 1.5rem;
+      margin-bottom: 0.5rem;
+      font-weight: bold;
+    }
+  }
+
+  .Search {
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+}
