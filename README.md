@@ -1,7 +1,5 @@
-# front_reactProject
+# artInfo프로젝트
+서울 시립 미술관 전시목록 API를 활용한 서울 시립 미술관 사이트입니다.
+React를 기반으로 구현되었으며, 작품 목록과 감상평 작성 기능을 제공합니다.
 
-1.0v
-
-update front project v.1
-v.2
-
+이 프로젝트는 React 기반 SPA를 통한 외부 API 활용과 CRUD기능 구현을 목표합니다
