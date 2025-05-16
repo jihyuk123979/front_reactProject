@@ -35,13 +35,13 @@ React를 기반으로 구현되었으며, 작품 목록과 감상평 작성 기�
 ![내부 정보](images/insideinfo.gif)
 ---
 ## 감상평 작성
-![감상평 작성](images/감상평 작성.png)
+![감상평 작성](images/reviewWrite.png)
 
 > 감상평 작성, 수정 및 삭제가 가능합니다.
 
 ### 작성 시연 영상
-![작성] (images/감상평 작성.gif)
-![수정 및 삭제] (images/수정 및 삭제.gif)
+![작성](images/reviewWrite.gif)
+![수정 및 삭제](images/delete.gif)
 
 
 
